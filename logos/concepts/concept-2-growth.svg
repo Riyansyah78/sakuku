@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SakuKu — Steady Growth</title>
+  <desc id="desc">A calm sage savings mark made from rising bars and an upward arrow.</desc>
+  <g id="icon">
+    <rect width="512" height="512" fill="#EDF1EC"/>
+    <rect x="104" y="296" width="76" height="112" rx="20" fill="#AFC3B3"/>
+    <rect x="218" y="232" width="76" height="176" rx="20" fill="#73977D"/>
+    <rect x="332" y="164" width="76" height="244" rx="20" fill="#587362"/>
+    <path d="M120 238 225 168l80 28 111-94" fill="none" stroke="#465B4D" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m371 95 55-9-10 55" fill="none" stroke="#465B4D" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

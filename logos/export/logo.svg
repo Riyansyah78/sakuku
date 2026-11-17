@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SakuKu — Pocket</title>
+  <desc id="desc">A simple sage wallet with a warm, muted coin.</desc>
+  <g id="icon">
+    <rect width="512" height="512" fill="#E4EEE6"/>
+    <path d="M116 176c0-23 19-42 42-42h196c23 0 42 19 42 42v160c0 23-19 42-42 42H158c-23 0-42-19-42-42V176Z" fill="#587362"/>
+    <path d="M116 205h280v-29c0-23-19-42-42-42H158c-23 0-42 19-42 42v29Z" fill="#465B4D"/>
+    <path d="M116 218h280v19H116z" fill="#AFC3B3"/>
+    <circle cx="337" cy="286" r="35" fill="#F5F7F4"/>
+    <circle cx="337" cy="286" r="19" fill="#AA925F"/>
+  </g>
+</svg>
